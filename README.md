@@ -15,5 +15,6 @@ It improves **physical endurance** and bolsters your **mental toughness**
     3. Jwala Gutta
 * The Bad Mittons
 * Flaming Mashmellows
-* We are Warriors    
+* We are Warriors
+[Adding my picture to AboutMe](https://github.com/Chandrapriya2613/assignment2-Kavalapati)    
 
