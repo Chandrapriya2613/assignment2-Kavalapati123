@@ -29,3 +29,9 @@ Countries that i love to visit in vaccation includes Switzerland,Australia,vietn
 |  vietnam    | The best dramatic landscapes,fascinating history,epic food. | 5 |
 |  Canada     | The Famous landmarks,Historical wonders outdoor exploration. | 10 |
 
+---
+# Funny Quotes
+---
+> Accept who you are Unless you are a serial killer.- *Ellen Degeners*
+> Gravitation is not responsible for people falling in love.- *Albert Einstein*
+
