@@ -7,7 +7,6 @@ It improves **physical endurance** and bolsters your **mental toughness**
 
 ## Badminton Team Name
 
----
 
 1. Badminton Heros
     1. Lin Dan
@@ -20,7 +19,7 @@ It improves **physical endurance** and bolsters your **mental toughness**
 
 ---
 # Exploring Different Countries
----
+
 Countries that i love to visit in vaccation includes Switzerland,Australia,vietnam,Canada <br>
 | **Country Name** | **Reason to visit** | **Day** |
 | --- | :---: | ---: |
@@ -30,8 +29,10 @@ Countries that i love to visit in vaccation includes Switzerland,Australia,vietn
 |  Canada     | The Famous landmarks,Historical wonders outdoor exploration. | 10 |
 
 ---
-# Funny Quotes
----
+## Funny Quotes
+
 > Accept who you are Unless you are a serial killer.- *Ellen Degeners*
+
+
 > Gravitation is not responsible for people falling in love.- *Albert Einstein*
 
