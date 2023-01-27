@@ -18,3 +18,10 @@ It improves **physical endurance** and bolsters your **mental toughness**
 * We are Warriors <br>
 [Redirecting AboutMe](https://github.com/Chandrapriya2613/assignment2-Kavalapati/blob/main/AboutMe.md)    
 
+---
+# Exploring Different Countries
+---
+Countries that i love to visit in vaccation includes Switzerland,Australia,vietnam,Canada <br>
+| **Country Name** | **Reason to visit** | **Day** |
+
+
